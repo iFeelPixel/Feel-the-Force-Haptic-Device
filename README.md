@@ -1,9 +1,12 @@
 # Feel-the-Force Haptic Device Software
+
+## Project Overview
 "Feel the Force" haptic device graphical user interface currently being created by my undergraduate research group. Forces from chemical and material systems are translated to a haptic control device where the user can construct and investigate materials at the atomic scale. The haptic feedback will allow the user to gain intuition about the function of materials and feel the mechanics of chemical bond breaking and formation. 
+
+## Options
 
 **NOTE:** When launching the program, you may need to calibrate the device by pushing it in and out until it is recognized.
 
-## OPTIONS
 Specify the # of atoms at launch like so:
 ```
 ./haptic-device 38
